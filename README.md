@@ -1,11 +1,6 @@
-# Bare Skeleton Create React App
+# Quick, Simple Auto-Complete Field
 
-This is Create React App minus the test.js files, logo etc. 
-
-Just a blank white canvas to start on. Enjoy!
-
-Favicon left in just bc it's ugly w/o unless replaced : )
-
+Use this to understand one way of doing auto-complete in react.
 
 
 ## Available Scripts
